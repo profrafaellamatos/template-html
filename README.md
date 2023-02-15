@@ -1,2 +1,2 @@
 # template-html
-Template HTML 
+Template HTML para quem optar por utilizar o codesandbox durante as aulas.
